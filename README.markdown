@@ -1,4 +1,4 @@
-# Novell.Directory.LDAP
+## Novell.Directory.LDAP
 
 This is a GitHub mirror of the `Novell.Directory.LDAP` library which is primarily hosted by Novell directly (original [here](http://www.novell.com/developer/ndk/ldap_libraries_for_c_sharp.html)).
 
@@ -12,7 +12,7 @@ It is necessary to include the `Mono.Security.dll` assembly when running on .NET
 
 It is thought that this mirror is acceptable under the MIT license (intact in the LICENSE file) under which both `Novell.Directory.LDAP` and `Mono.Security.dll` are released.
 
-## Building (Windows/.NET)
+### Building (Windows/.NET)
 
 From a Developer Command Prompt:
 
