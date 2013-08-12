@@ -4,6 +4,8 @@ This is a GitHub mirror of the `Novell.Directory.LDAP` library which is primaril
 
 This mirror hosts the sources for v2.1.11 for convenience, since it is otherwise necessary to use FTP to obtain the source code.
 
+Minor modifications have been made to the build script to output XML documentation files with more appropriate names.
+
 `Mono.Security.dll` is also included, taken unmodified from the v2.10 Windows binary release of Mono. The sources for this binary are available [here](https://github.com/mono/mono/tree/mono-2-10).
 
 It is necessary to include the `Mono.Security.dll` assembly when running on .NET on Windows.
